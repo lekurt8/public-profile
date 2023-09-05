@@ -4,6 +4,9 @@ Analytical and innovative specialist who collaborates with teams to deliver proj
 ## Work Experience
 
 ## Projects
+
+![Projects](Team Project.jpg)
+
 MKTG 3000 (Marketing is Everything)
 
 This project was to help a start-up company (Star Learning) market its product in two market segments. These market segments were after school learning centers and instructional small businesses. The challenge was that the company needed to understand the target market and its competitors. For instance, Star Learning needed to understand its customers, context, company, collaborators, and competition to effectively market its product in these markets.
