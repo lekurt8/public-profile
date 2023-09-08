@@ -3,7 +3,7 @@ Analytical and innovative specialist who collaborates with teams to deliver proj
 
 ## Education
 - B.S., MIS | San Jose State University (_May 2005_)
-- A.S., CIT | Evergreen Valley College (_2004_)
+- A.S., CIT | Evergreen Valley College (_May 2004_)
 
 ## Work Experience
 TOSHIBA, SAN JOSE, CA						                   Apr. 2022 – Present
