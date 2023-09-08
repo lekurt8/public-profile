@@ -2,12 +2,12 @@
 Analytical and innovative specialist who collaborates with teams to deliver projects on time and within budget. Leverage data analytics and business acumen to fully assess operational needs. Proven expertise managing models, processes, business analytics, systems, and leadership. Customer-focused and adaptable to variety of work environments, with high tolerance for risk and stress associated with tight deadlines.
 
 ## Education
-San Jose State University								San Jose, CA, 2005
+San Jose State University San Jose, CA, 2005
 Bachelor of Science (BS)
 #### Management Information Systems and Marketing
 - Achieved Dean’s Scholar Award for High Academic Standing 2005
 
-Evergreen Valley College								San Jose, CA, 2004
+Evergreen Valley College San Jose, CA, 2004
 Associate of Science (AS)
 #### Computer & Information Technology 
 - Graduated with Honors
