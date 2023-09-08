@@ -3,11 +3,13 @@ Analytical and innovative specialist who collaborates with teams to deliver proj
 
 ## Education
 San Jose State University								San Jose, CA, 2005
-Bachelor of Science (BS), Management Information Systems and Marketing
+Bachelor of Science (BS)
+#### Management Information Systems and Marketing
 - Achieved Dean’s Scholar Award for High Academic Standing 2005
 
 Evergreen Valley College								San Jose, CA, 2004
-Associate of Science (AS), Computer & Information Technology 
+Associate of Science (AS)
+#### Computer & Information Technology 
 - Graduated with Honors
 
 
