@@ -28,5 +28,5 @@ This project was to help a start-up company (Star Learning) market its product i
 - Analyzed target markets, market trends, and constraints, providing a complete picture of current market and competitors
 - Developed a value proposition, which helped the company communicate its product value to customers, for Star Learning
 - Performed SWOT analysis and provided a complete picture of the 5Cs (Customers, Context, Company, Collaborators, and Competition) and the 4 Ps (Product, Price, Promotion, and Place) to executives
-- Developed success metrics for the company’s product, delivering a picture of what success looks like in the end goal
+- Developed success metrics for the company’s product, delivering what success looks like as the end goal
 
