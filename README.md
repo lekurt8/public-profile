@@ -1,5 +1,15 @@
 # Data Science
-Analytical and innovative specialist who collaborates with teams to deliver projects on time and within budget. Leverage data analytics and business acumen to fully assess operational needs. Proven expertise managing models, processes, business analytics, systems, and leadership. Customer-focused and adaptable to variety of work environments, with high tolerance for risk and stress associated with tight deadlines. 
+Analytical and innovative specialist who collaborates with teams to deliver projects on time and within budget. Leverage data analytics and business acumen to fully assess operational needs. Proven expertise managing models, processes, business analytics, systems, and leadership. Customer-focused and adaptable to variety of work environments, with high tolerance for risk and stress associated with tight deadlines.
+
+## Education
+San Jose State University								San Jose, CA, 2005
+Bachelor of Science (BS), Management Information Systems and Marketing
+- Achieved Dean’s Scholar Award for High Academic Standing 2005
+
+Evergreen Valley College								San Jose, CA, 2004
+Associate of Science (AS), Computer & Information Technology 
+- Graduated with Honors
+
 
 ## Work Experience
 TOSHIBA, SAN JOSE, CA						                   Apr. 2022 – Present
@@ -22,7 +32,7 @@ This project was to help a start-up company (Star Learning) market its product i
 
 - Created a marketing plan for a start-up company to market its product, utilizing the Marketing Framework to ensure that the plan is focused and impactful
 - Analyzed target markets, market trends, and constraints, providing a complete picture of current market and competitors
-- Developed a value proposition for Star Learning, which helped the company communicate its product value to customers
+- Developed a value proposition, which helped the company communicate its product value to customers, for Star Learning
 - Performed SWOT analysis and provided a complete picture of the 5Cs (Customers, Context, Company, Collaborators, and Competition) and the 4 Ps (Product, Price, Promotion, and Place) to executives
 - Developed success metrics for the company’s product, delivering a picture of what success looks like in the end goal
 
