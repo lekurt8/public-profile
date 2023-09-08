@@ -2,6 +2,15 @@
 Analytical and innovative specialist who collaborates with teams to deliver projects on time and within budget. Leverage data analytics and business acumen to fully assess operational needs. Proven expertise managing models, processes, business analytics, systems, and leadership. Customer-focused and adaptable to variety of work environments, with high tolerance for risk and stress associated with tight deadlines. 
 
 ## Work Experience
+TOSHIBA, SAN JOSE, CA						                   Apr. 2022 – Present
+#### Senior Specialist - Materials
+
+- Coordinate freight movement from factories to vendor managed inventory (VMI) hubs and distribution centers, ensuring 99.95% on-time delivery
+- Coach team members to provide accurate inventory count for hard disk drives (HDD) throughout North America and Mexico, resulting in zero inventory-related discrepancies
+- Manage all transportation service providers for inland and inbound product movements, including third-party logistics locations, dispatching carriers, and forwarders; improved cross-border relationships 
+- Monitor the service performance of providers, improving the accuracy and timeliness of deliveries, invoicing, tracking information, and loss and damage claims, to 98% vs. 93% in the prior year
+- Collaborate cross-functionally to provide analysis & metrics reporting for quarterly business reviews with key logistics providers, facilitating the enterprise planning process
+
 
 ## Projects
 
