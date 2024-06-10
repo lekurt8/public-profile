@@ -32,7 +32,7 @@ This project was to help a start-up company (Star Learning) market its product i
 
 #### MSIS 2402 (Math for Finance and Analytics with R)
 
-The project in MSIS 2402 was to optimize Tesla's call center by minimizing the cost to run the call center using R. For example, I defined the objective function, decision variables, and business constraints that Tesla was facing. I then entered these parameters into R to find the lowest cost to run the call center. I helped Tesla answer key questions such as how many English-speaking and Spanish-speaking agents should Tesla staff its call center while meeting all business constraints such as hours of operations.
+The project in MSIS 2402 was to optimize Tesla's call center by minimizing the cost to run the call center using R. For example, I defined the objective function, decision variables, and business constraints that Tesla was facing. I then entered these parameters into R to find the lowest cost to run the call center, helping Tesla answer key questions such as how many English-speaking and Spanish-speaking agents should the company staff its call center while meeting all business constraints such as hours of operations.
 
 - Analyzed Tesla's business problems in staffing its call center to provide software support for its Model E1
 - Defined the objective function, decision variables, and business constraints in the Tesla case study and code them in R
