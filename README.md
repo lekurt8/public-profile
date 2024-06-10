@@ -37,4 +37,4 @@ In MSIS 2402, I optimized Tesla's call center by minimizing the cost to run the 
 - Analyzed Tesla's business problems in staffing its call center in providing software support for its Model E1
 - Defined the objective function, decision variables, and business constraints in the Tesla case study and code them in R
 - Provided valuable insights to business problems that Tesla is facing from the results generated in R, minimizing the company costs while maintaining a fully staffed call center
-- Strategically staffed Telsa's call center and met all business constraints defined in the business case
+- Strategically staffed Telsa's call center, meeting all business constraints defined in the business case
