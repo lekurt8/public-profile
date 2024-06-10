@@ -22,7 +22,7 @@ TOSHIBA, SAN JOSE, CA						                   Apr. 2022 – Present
 
 #### MKTG 3000 (Marketing is Everything)
 
-This project was to help a start-up company (Star Learning) market its product in two market segments. These market segments were after school learning centers and instructional small businesses. The challenge was that the company needed to understand the target market and its competitors. For instance, Star Learning needed to understand its customers, context, company, collaborators, and competition to effectively market its product in these markets.
+This project was to help a start-up company (Star Learning) market its product in two market segments: after school learning centers and instructional small businesses. The challenge was that the company needed to understand the target market and its competitors. For instance, Star Learning needed to understand its customers, context, company, collaborators, and competition to effectively market its product in these markets.
 
 - Created a marketing plan for a start-up company to market its product, utilizing the Marketing Framework to ensure that the plan is focused and impactful
 - Analyzed target markets, market trends, and constraints, providing a complete picture of current market and competitors
@@ -30,3 +30,11 @@ This project was to help a start-up company (Star Learning) market its product i
 - Performed SWOT analysis and provided a complete picture of the 5Cs (Customers, Context, Company, Collaborators, and Competition) and the 4 Ps (Product, Price, Promotion, and Place) to executives
 - Developed success metrics for the company’s product, delivering what success looks like as the end goal
 
+#### MSIS 2402 (Math for Finance and Analytics with R)
+
+In MSIS 2402, I optimized Tesla's call center by minimizing the cost to run the call center using R. For example, I defined the objective function, decision variables, and business constraints that Tesla is facing. I then entered these parameters into R to find the lowest cost to run the call center. I helped Tesla answer questions such as how many English-speaking and Spanish-speaking agents should Tesla staff its call center and be able to meet all business constraints such as hours of operations.
+
+- Analyzed Tesla's business problems in staffing its call center in providing software support for its Model E1
+- Defined the objective function, decision variables, and business constraints in the Tesla case study and code them in R
+- Provided valuable insights to business problems that Tesla is facing from the results generated in R, minimizing the company costs while maintaining a fully staffed call center
+- Strategically staffed Telsa's call center and met all business constraints defined in the business case
