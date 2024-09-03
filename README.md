@@ -38,3 +38,16 @@ The project in MSIS 2402 was to optimize Tesla's call center by minimizing the c
 - Defined the objective function, decision variables, and business constraints in the Tesla case study and code them in R
 - Provided valuable insights to business problems that Tesla was facing with results generated in R, minimizing the company costs while maintaining a fully staffed call center
 - Strategically staffed Telsa's call center, meeting all business constraints defined in the business case
+
+#### IDIS 3802 (Data Science with Python)
+
+The project in IDIS 3802 (Data Science with Python) was to analyze the U.S. Food Import dataset. U.S. consumers demand variety, quality, and convenience in the foods they consume. As Americans have become wealthier and more ethnically diverse, the American food basket reflects a growing share of tropical products, spices, and imported gourmet products. Seasonal and climatic factors drive U.S. imports of popular types of fruits and vegetables and tropical products, such as cocoa and coffee. In addition, a growing share of U.S. imports can be attributed to intra-industry trade, whereby agricultural-processing industries based in the United States carry out certain processing steps offshore and import products at different levels of processing from their subsidiaries in foreign markets.
+
+This dataset provides import values of edible products (food and beverages) entering U.S. ports and their origin of shipment. Data are from the U.S. Department of Commerce, U.S. Census Bureau. Food and beverage import values are compiled by calendar year into food groups corresponding to major commodities or level of processing. At least 10 years of annual data are included, enabling users to track long-term growth patterns.
+
+-Retrieved and process data from the U.S. Department of Agriculture
+-Utilized Python to clean and prepare U.S. Food Import dataset for analyses
+-Developed business insights through data wrangling, visualization, classification, and regression 
+-Segregated data into training and testing sets for machine learning (ML)
+-Chose appropriate ML models and trained these models to make predictions with dataset 
+
