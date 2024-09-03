@@ -45,9 +45,10 @@ The project in IDIS 3802 (Data Science with Python) was to analyze the U.S. Food
 
 This dataset provides import values of edible products (food and beverages) entering U.S. ports and their origin of shipment. Data are from the U.S. Department of Commerce, U.S. Census Bureau. Food and beverage import values are compiled by calendar year into food groups corresponding to major commodities or level of processing. At least 10 years of annual data are included, enabling users to track long-term growth patterns.
 
-- Retrieved and process data from the U.S. Department of Agriculture
-- Utilized Python to clean and prepare U.S. Food Import dataset for analyses
-- Developed business insights through data wrangling, visualization, classification, and regression 
-- Segregated data into training and testing sets for machine learning (ML)
-- Chose appropriate ML models and trained these models to make predictions with dataset 
+- Analyzed and leveraged data from the U.S. Department of Agriculture to drive insights and inform strategic decision-making
+- Optimized data quality and accuracy by cleaning and preparing U.S. Food Import datasets using Python
+- Generated actionable business insights by expertly wrangling data, creating visualizations, and applying advanced classification and regression techniques
+- Strategically partitioned data into training and testing sets to enhance machine learning (ML) model performance and validation
+- Selected and trained optimal machine learning models to accurately predict outcomes and drive data-driven decision-making
+
 
