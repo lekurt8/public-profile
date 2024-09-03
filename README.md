@@ -1,5 +1,5 @@
 # Data Science
-Analytical and innovative specialist who collaborates with teams to deliver projects on time and within budget. Leverage data analytics and business acumen to fully assess operational needs. Proven expertise in machine learning (ML) models, processes, business analytics, systems, and leadership. Customer-focused and adaptable to variety of work environments, with high tolerance for risk and stress associated with tight deadlines
+Data Science professional with a strong analytical mindset and proven expertise in leveraging machine learning models to drive business insights and optimize operations. Experienced in collaborating with cross-functional teams to deliver data-driven solutions on time and within budget. Adept at using data analytics to assess and meet operational needs, with a deep understanding of business analytics and systems. Customer-focused and adaptable, thriving in dynamic environments with a high tolerance for risk and tight deadlines
 
 ## Education
 - B.S., MIS | San Jose State University (_May 2005_)
