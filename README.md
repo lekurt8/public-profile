@@ -2,6 +2,7 @@
 Data Science professional with a strong analytical mindset and proven expertise in leveraging machine learning models to drive business insights and optimize operations. Experienced in collaborating with cross-functional teams to deliver data-driven solutions on time and within budget. Adept at using data analytics to assess and meet operational needs, with a deep understanding of business analytics and systems. Customer-focused and adaptable, thriving in dynamic environments with a high tolerance for risk and tight deadlines
 
 ## Education
+- MBA, Data Science | Santa Clara University (_Mar 2026_)
 - B.S., MIS | San Jose State University (_May 2005_)
 - A.S., CIT | Evergreen Valley College (_May 2004_)
 
